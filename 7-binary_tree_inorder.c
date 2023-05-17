@@ -1,3 +1,13 @@
+/**
+ *binary_tree_inorder- Lists elements in inorder traversal
+ *
+ * @tree: The tree to traverse
+ * @func: The function we use to print
+ *
+ *Return: Returns nothing
+ */
+
+
 #include "binary_trees.h"
 
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
