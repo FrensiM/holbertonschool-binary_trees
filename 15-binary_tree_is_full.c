@@ -20,7 +20,7 @@ int binary_tree_height_l(const binary_tree_t *tree)
 }
 
 /**
- * _binary_tree_is_full - finds if tree is full
+ * binary_tree_is_full - finds if tree is full
  * @tree: tree to find if its full
  * Return: 1 if yes else 0
  */
